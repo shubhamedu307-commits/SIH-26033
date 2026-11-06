@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:6-11-2026
+## Reference Number:26013866
+## Name:SHUBHAM KUMAR
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,10 +26,19 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+<ins>(***KisanSetu AI – Intelligent Farm-to-Market Ecosystem***)</ins>
+(**Detailed explanation of the proposed solution**)
+KisanSetu AI is a centralized digital agricultural marketplace that connects farmers, Farmer Producer Organisations (FPOs), consumers, retailers, wholesalers, restaurants and institutional buyers through a single platform.
+The system uses Artificial Intelligence, data analytics and logistics optimization to make agricultural trading more transparent, efficient and accessible.
+Rather than depending entirely on traditional intermediaries, farmers can list their agricultural produce directly or through their FPOs.
+Our platform will have six major modules.
+(**Module 1: Direct Farmer-to-Buyer Marketplace**)
+*Farmers register and create profiles.
+*Farmers upload crop details, quantity, expected harvest date and location.
+*Buyers can search for available produce.
+*Buyers can place orders directly.
+*Farmers can receive and compare purchase offers.
+*The system displays transparent prices and transaction details.
 
 ## Technical Approach
 Remove These Lines
